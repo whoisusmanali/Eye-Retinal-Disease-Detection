@@ -59,3 +59,37 @@ This project aims to detect eye retina diseases using deep learning models. The 
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score  
 
 ---
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/eye-retina-disease-detection.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the preprocessing script:
+   ```bash
+   python preprocess.py
+   ```
+
+4. Train the model:
+   ```bash
+   python train.py
+   ```
+
+5. Evaluate the model:
+   ```bash
+   python evaluate.py
+   ```
+
+6. Use the final model for predictions:
+   ```bash
+   python predict.py --image <path_to_image>
+   ```
+
+---
