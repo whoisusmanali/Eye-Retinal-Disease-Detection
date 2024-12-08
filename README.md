@@ -64,7 +64,7 @@ This project aims to detect eye retina diseases using deep learning models. The 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/eye-retina-disease-detection.git
+   git clone https://github.com/whoisusmanali/Eye-Retinal-Disease-Detection.git
    ```
 
 2. Install dependencies:
