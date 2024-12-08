@@ -49,3 +49,13 @@ This project aims to detect eye retina diseases using deep learning models. The 
    - Saved the final model in `.h5` format for deployment.
 
 ---
+
+## Technologies Used
+
+- **Programming Languages**: Python  
+- **Deep Learning Frameworks**: TensorFlow, Keras  
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn  
+- **Image Processing Tools**: OpenCV, Scikit-image  
+- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score  
+
+---
