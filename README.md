@@ -93,3 +93,24 @@ This project aims to detect eye retina diseases using deep learning models. The 
    ```
 
 ---
+
+## Results
+
+- Achieved **70% accuracy** on the test dataset.
+
+---
+
+## Future Work
+
+- Expand the dataset with more diverse retina images.
+- Improve the model with transfer learning and ensemble methods.
+- Deploy the model using a web interface for real-world applications.
+
+
+---
+
+## Contact
+
+For any questions or feedback, please reach out at:  
+**Usman Ali**  
+Email: whoisusmanali@gmail.com
